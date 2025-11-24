@@ -1,0 +1,7 @@
+C:\Users\Senai.CATEAS21104172\Downloads\lsiat\listacompras\lista\obj\Debug\net7.0-windows\lista.csproj.AssemblyReference.cache
+C:\Users\Senai.CATEAS21104172\Downloads\lsiat\listacompras\lista\obj\Debug\net7.0-windows\lista.Form1.resources
+C:\Users\Senai.CATEAS21104172\Downloads\lsiat\listacompras\lista\obj\Debug\net7.0-windows\lista.csproj.GenerateResource.cache
+C:\Users\Senai.CATEAS21104172\Downloads\lsiat\listacompras\lista\obj\Debug\net7.0-windows\lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senai.CATEAS21104172\Downloads\lsiat\listacompras\lista\obj\Debug\net7.0-windows\lista.AssemblyInfoInputs.cache
+C:\Users\Senai.CATEAS21104172\Downloads\lsiat\listacompras\lista\obj\Debug\net7.0-windows\lista.AssemblyInfo.cs
+C:\Users\Senai.CATEAS21104172\Downloads\lsiat\listacompras\lista\obj\Debug\net7.0-windows\lista.csproj.CoreCompileInputs.cache
